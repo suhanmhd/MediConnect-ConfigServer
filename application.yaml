@@ -3,6 +3,6 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZone: ${EUREKA_SERVER_ADDRESS:http://13.232.146.13:8761/eureka}
+      defaultZone: ${EUREKA_SERVER_ADDRESS:http://13.232.129.178:8761/eureka}
 
 
